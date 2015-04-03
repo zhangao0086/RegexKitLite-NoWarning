@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name         = "RegexKitLite-NoWarning"
   s.version      = "1.0.0"
-  s.summary      = "It is cloned from official subversion. This fork fix some wwarning raised."
+  s.summary      = "It is cloned from official subversion (RegexKitLite-4.0). This fork fix some wwarning raised."
   s.homepage     = "http://regexkit.sourceforge.net"
   s.author       = { "Bannings" => "zhangao0086@gmail.com" }
   s.platform     = :ios, "5.0"
