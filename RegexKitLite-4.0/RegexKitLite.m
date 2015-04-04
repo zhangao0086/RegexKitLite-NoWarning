@@ -48,6 +48,7 @@
 
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Wunreachable-code"
+#pragma clang diagnostic ignored "-Wunused-function"
 
 #ifdef    __OBJC_GC__
 #import <Foundation/NSGarbageCollector.h>
