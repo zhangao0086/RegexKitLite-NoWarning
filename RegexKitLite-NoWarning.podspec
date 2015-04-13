@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "RegexKitLite-NoWarning"
-  s.version      = "1.0.0"
+  s.version      = "1.1.0"
   s.summary      = "It is cloned from official subversion (RegexKitLite-4.0). This fork fix some wwarning raised."
   s.homepage     = "https://github.com/zhangao0086/RegexKitLite-NoWarning"
   s.license       = { :type => "BSD", :file => "LICENSE" }
